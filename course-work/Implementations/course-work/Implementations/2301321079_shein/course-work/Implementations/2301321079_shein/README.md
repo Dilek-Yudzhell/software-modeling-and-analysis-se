@@ -31,6 +31,14 @@ It includes conceptual and logical ER models, SQL implementation, a Data Warehou
 
 ---
 
+## Files Description
+
+- **2301321079_shein_conceptual.drawio** – Conceptual ER diagram of the SHEIN e-commerce database.
+- **2301321079_shein_logical.drawio** – Logical ER diagram with attributes and relationships.
+- **shein.sql** – SQL script that creates the SHEIN database and tables.
+- **README.md** – Documentation for the course project.
+
+
 ## 📊 Features
 - 8 entities, 35+ attributes, M:N relationships  
 - Stored procedure, function, trigger  
